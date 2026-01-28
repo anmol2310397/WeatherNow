@@ -1,2 +1,38 @@
-# weather_forecast_site
-WeatherNow is a responsive weather forecasting web app that delivers accurate, real-time weather updates for any city worldwide and your current location. Built using HTML, CSS, JavaScript, and the OpenWeatherMap API for fast and reliable forecasts. 🌦️
+# 🌦️ WeatherNow
+
+**WeatherNow** is a weather forecasting website that provides precise weather conditions for any city in the world. It also features real-time weather updates for your current location. Built with **HTML, CSS, JavaScript**, and the **OpenWeatherMap API**.
+
+🔗 **Visit the site here**: [WeatherNow](https://anmol2310397.github.io/WeatherNow/)
+
+## 🚀 How to Contribute
+
+1. **Fork** this repository to your GitHub account.
+2. **Clone** the repository to your local machine:
+   ```bash
+   git clone ~your clone link~
+   ```
+3. **Create a branch** with your name:
+   ```bash
+   git checkout -b ~your name~
+   ```
+4. **Make necessary changes** and commit those changes:
+   ```bash
+   git add .
+   git commit -m "your message"
+   ```
+5. **Push changes** to GitHub:
+   ```bash
+   git push origin ~your branch name~
+   ```
+6. **Submit your changes for review**:
+   - Go to your repository on GitHub.
+   - Click on the **Compare & pull request** button.
+   - Submit the pull request.
+
+It's that easy! We are eagerly waiting for your pull request. 😊
+
+## 📝 How to Get Concluded
+
+Don't you feel happy and enlightened while contributing to this project? Give it a ⭐ then, it'll make us even happier!
+
+**Happy hacking!** 🚀🚀🚀
